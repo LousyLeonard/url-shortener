@@ -1,4 +1,4 @@
-# HPE URL Shortener
+# URL Shortener
 IntelliJ Java Spring Boot project using Gradle.
 
 

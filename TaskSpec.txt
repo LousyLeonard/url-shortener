@@ -1,0 +1,5 @@
+We'd like you to write a simple URL shortener microservice, similar to tinyurl.com or bit.ly. When running your service on bench, we should be able to make a request to "/shorten" with a URL of our choice; this should return us a unique URL on the service domain. Visiting this URL should redirect us to our original link.
+
+You should feel free to complete this assignment in a language of your choice.
+
+You should spend however long you feel is appropriate on this in order to demonstrate your abilities the best you are able to. You should treat this as production code, demonstrating understanding of good practices and tooling. Completeness is not a prerequisite for submission - we'd like to see whatever you were able to do in the time available to you.
