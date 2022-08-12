@@ -1,5 +1,5 @@
 # URL Shortener
-IntelliJ Java Spring Boot project using Gradle.
+IntelliJ Java Spring Boot project using Gradle, see the [full spec](https://github.com/LousyLeonard/url-shortener/blob/master/TaskSpec.txt).
 
 
 ### Quick Start 
